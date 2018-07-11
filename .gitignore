@@ -1,0 +1,6 @@
+*.out
+tags
+*.o
+tmp/*
+testDir/*
+client*
